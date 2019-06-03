@@ -1,0 +1,1 @@
+package chixsaw.springframework.msscbreweryclient.web.client;
